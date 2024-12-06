@@ -24,5 +24,6 @@ numbers.sort(function(a,b){
 //using length property in arrays
 lengthOfArray = numbers.length;
 numbers[numbers.length - 1]
-console.log(numbers[numbers.length - 1]);
+myArray.push("Mercedes", "Vitz")
+console.log(myArray);
 
